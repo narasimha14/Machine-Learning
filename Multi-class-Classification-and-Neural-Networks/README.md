@@ -8,9 +8,9 @@ Below is the description of each file in this repository.
 
 **ex3_nn.m** - Octave/MATLAB driver script for Neural Networks classifier
 
-**ex3data1.m**at - Training set of hand-written digits
+**ex3data1.mat** - Training set of hand-written digits
 
-**ex3weights.m**at - Initial weights for the neural networks classifier
+**ex3weights.mat** - Initial weights for the neural networks classifier
 
 **displayData.m** - Function to help visualize the dataset
 
