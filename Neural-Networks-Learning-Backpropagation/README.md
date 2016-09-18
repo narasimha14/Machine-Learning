@@ -4,7 +4,7 @@ These set of codes contain the implementations of backpropagation algorithm for 
 
 Below is the description of each file in this repository.
 
-Note: Make sure to turn off gradient checking in ex4.m file once the checking is successful
+**Note:** Make sure to turn off gradient checking in ex4.m file once the checking is successful
 
 **ex4.m** - Octave/MATLAB driver script that steps you through the Neural Networks Learning process
 
